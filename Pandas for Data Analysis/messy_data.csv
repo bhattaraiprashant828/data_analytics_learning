@@ -1,0 +1,11 @@
+name,age,city,score,email
+Aarav,19.0,Kathmandu,85.0,aarav@example.com
+Sita,20.0,Pokhara,92.0,sita@example.com
+Rohan,,Butwal,74.0,rohan@example.com
+Anisha,21.0,Kathmandu,,anisha@example.com
+Bibek,20.0,Pokhara,68.0,
+Sita,20.0,Pokhara,92.0,sita@example.com
+,22.0,Lalitpur,77.0,suman@example.com
+Mina,,Butwal,81.0,mina@example.com
+Rohan,19.0,,74.0,rohan@example.com
+Puja,19.0,Kathmandu,88.0,puja@example.com

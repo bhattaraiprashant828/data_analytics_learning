@@ -1,0 +1,21 @@
+order_id,date,product,category,quantity,unit_price,city,payment_method
+5001,2026-01-03,Laptop,Electronics,1,85000,Kathmandu,Cash
+5002,2026-01-07,Mouse,Accessories,3,1200,Pokhara,Card
+5003,2026-01-11,Keyboard,Accessories,2,2500,Butwal,Mobile Wallet
+5004,2026-01-15,Monitor,Electronics,1,32000,Kathmandu,Card
+5005,2026-01-19,Headphones,Accessories,2,3500,Lalitpur,Cash
+5006,2026-01-23,Laptop,Electronics,1,82000,Pokhara,Cash
+5007,2026-01-27,Mouse,Accessories,4,1100,Butwal,Card
+5008,2026-01-31,Monitor,Accessories,2,31500,Kathmandu,Mobile Wallet
+5009,2026-02-04,Keyboard,Electronics,3,2400,Lalitpur,Card
+5010,2026-02-08,Laptop,Accessories,1,87000,Pokhara,Cash
+5011,2026-02-12,Headphones,Electronics,2,3300,Kathmandu,Cash
+5012,2026-02-16,Mouse,Accessories,5,1150,Butwal,Card
+5013,2026-02-20,Monitor,Accessories,1,32500,Pokhara,Mobile Wallet
+5014,2026-02-24,Keyboard,Electronics,2,2600,Lalitpur,Card
+5015,2026-02-28,Laptop,Accessories,1,84000,Kathmandu,Cash
+5016,2026-03-04,Mouse,Electronics,3,1250,Pokhara,Cash
+5017,2026-03-08,Headphones,Accessories,2,3600,Butwal,Card
+5018,2026-03-12,Monitor,Accessories,2,30500,Kathmandu,Mobile Wallet
+5019,2026-03-16,Keyboard,Electronics,4,2450,Lalitpur,Card
+5020,2026-03-20,Laptop,Accessories,1,86000,Pokhara,Cash

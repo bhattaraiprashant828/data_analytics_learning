@@ -1,0 +1,16 @@
+employee_id,department,experience_years,monthly_salary_npr,performance_score,remote_work
+201,IT,1,35000,78,True
+202,Sales,3,42000,85,False
+203,HR,5,50000,88,True
+204,IT,2,38000,81,True
+205,Finance,7,65000,92,False
+206,Sales,4,47000,86,False
+207,IT,1,34000,75,True
+208,HR,6,55000,90,True
+209,Finance,8,72000,94,False
+210,Sales,3,44000,83,False
+211,IT,5,60000,89,True
+212,Finance,2,39000,80,False
+213,HR,4,48000,87,True
+214,Sales,9,80000,96,False
+215,IT,6,67000,91,True
